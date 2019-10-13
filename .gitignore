@@ -1,0 +1,14 @@
+### Node ###
+part2/task1/node_modules/
+
+### MACOS ###
+.DS_Store
+part1/.DS_Store
+part2/task1/.DS_Store
+part2/task2/.DS_Store
+
+# VSCode
+.vscode
+part1/.vscode
+part2/task1/.vscode
+part2/task2/.vscode
